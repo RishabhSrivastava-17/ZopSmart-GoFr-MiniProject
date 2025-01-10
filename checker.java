@@ -1,1 +1,1 @@
-CheckerP
+Checker
